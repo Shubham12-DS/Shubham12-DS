@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">Data Science & AIML Portfolio | Master's Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham12-ds&label=Profile%20views&color=0e75b6&style=flat" alt="shubham12-ds" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham12-ds&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham12-DS" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham12-ds" alt="shubham12-ds" /></a> </p>
 
